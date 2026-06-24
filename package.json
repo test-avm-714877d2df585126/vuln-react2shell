@@ -2,7 +2,7 @@
   "name": "vuln-react2shell",
   "version": "1.0.0",
   "dependencies": {
-    "react-server-dom-webpack": "19.0.0-rc-6230622a1a-20240610"
+    "react-server-dom-webpack": "19.2.7"
   },
   "scripts": {
     "test": "echo \"Tests passed\" && exit 0"
